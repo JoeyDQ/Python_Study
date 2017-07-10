@@ -27,7 +27,7 @@ def PathPlan(*numbers):
         index = index + MinstepIndex[index]
 
 
-a = [3,4,2,1,1,2,1,1]
+a = [3,2,5,1,1,4,3,5,2,2,1]
 PathPlan(*a)
             
 
